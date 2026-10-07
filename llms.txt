@@ -3,7 +3,7 @@
 > Winnipeg Hyundai is a Hyundai dealership in MB. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/): 344 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/): 348 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
