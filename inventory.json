@@ -1,6 +1,6 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-10-07T19:47:48",
+  "generated_at": "2026-10-08T14:26:50",
   "vehicle_count": 351,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -21,7 +21,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2020 Hyundai Venue ",
@@ -38,7 +40,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2020 Land Rover Discovery Sport S",
@@ -55,7 +59,9 @@
       "year": 2020,
       "make": "Land",
       "model": "Rover Discovery Sport S",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2021 Honda Pilot Touring 8-Passenger AWD",
@@ -73,7 +79,9 @@
       "year": 2021,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2021 Mercedes-Benz GLA GLA 250",
@@ -91,7 +99,9 @@
       "year": 2021,
       "make": "Mercedes-Benz",
       "model": "GLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2022 Hyundai Elantra PREFERRED",
@@ -109,7 +119,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2022 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Package",
@@ -127,7 +139,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2022 Hyundai Tucson Hybrid ULTIMATE",
@@ -145,7 +159,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2022 Hyundai Tucson Essential AWD",
@@ -163,7 +179,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2022 Toyota Tacoma BASE",
@@ -181,7 +199,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Hyundai Elantra Preferred IVT",
@@ -199,7 +219,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Hyundai Santa Cruz PREFERRED",
@@ -217,7 +239,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Hyundai Tucson Preferred AWD",
@@ -235,7 +259,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Jeep Gladiator WILLYS",
@@ -253,7 +279,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Kia Forte Sedan EX IVT",
@@ -271,7 +299,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Kia Sportage X-Line Limited AWD w-Black Interior",
@@ -289,7 +319,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Mitsubishi Outlander PHEV GT S-AWC",
@@ -307,7 +339,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Tesla Model X AWD",
@@ -324,7 +358,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model X AWD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2023 Toyota RAV4 XLE",
@@ -342,7 +378,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Hyundai Elantra Preferred IVT",
@@ -360,7 +398,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Hyundai Elantra Luxury IVT w-Two-Tone Interior",
@@ -378,7 +418,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Hyundai IONIQ 5 Preferred AWD Long Range w-Ultimate Pkg",
@@ -396,7 +438,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Hyundai Santa Fe ULTIMATE CALLIGRAPHY",
@@ -414,7 +458,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Hyundai Tucson Preferred CPO, AWD, HtdSts, HtdWhl, CarPlay",
@@ -432,7 +478,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Hyundai Venue Preferred IVT",
@@ -450,7 +498,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Nissan Kicks SR",
@@ -468,7 +518,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Nissan Kicks SR",
@@ -486,7 +538,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Nissan Sentra Sedan SV",
@@ -504,7 +558,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2024 Nissan Sentra Sedan SV",
@@ -522,7 +578,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Ford Bronco Sport Big Bend 4x4",
@@ -540,7 +598,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Ford Escape Platinum AWD",
@@ -558,7 +618,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Elantra Hybrid Luxury DCT",
@@ -576,7 +638,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Kona Electric PREFERRED",
@@ -594,7 +658,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Kona Preferred Trend CPO, Sunrf, HtdSts/HtdWhl, CarPlay",
@@ -605,14 +671,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/9eaa9550dcfb.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/70699262/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/70699262/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:03:56",
+      "last_verified": "2026-10-08T00:14:54",
       "price": 30250.0,
       "price_currency": "CAD",
       "odometer_km": 48245,
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Kona Preferred Trend CPO, Sunroof, HtdSts, NoCollisions",
@@ -623,14 +691,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/0dbb36f5273e.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71034633/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71034633/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:05",
+      "last_verified": "2026-10-08T00:15:04",
       "price": 28999.0,
       "price_currency": "CAD",
       "odometer_km": 67618,
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Kona Preferred TREND CPO, HtdSts, HtdWhl, No Collisions",
@@ -641,14 +711,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/de2a814ddd73.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71176347/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71176347/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:14",
+      "last_verified": "2026-10-08T00:15:12",
       "price": 30999.0,
       "price_currency": "CAD",
       "odometer_km": 33206,
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
@@ -659,14 +731,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/461fb7462858.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71176349/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71176349/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:23",
+      "last_verified": "2026-10-08T00:15:22",
       "price": 30099.0,
       "price_currency": "CAD",
       "odometer_km": 51164,
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Kona Preferred TREND CPO, HtdSts/Whl, Accident Free",
@@ -677,14 +751,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/0e789c895190.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71176352/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71176352/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:33",
+      "last_verified": "2026-10-08T00:15:30",
       "price": 30499.0,
       "price_currency": "CAD",
       "odometer_km": 42073,
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
@@ -695,14 +771,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/ae789837b7e0.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71246537/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/kona/winnipeg/mb/71246537/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:42",
+      "last_verified": "2026-10-08T00:15:40",
       "price": 30699.0,
       "price_currency": "CAD",
       "odometer_km": 37321,
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Tucson PREFERRED",
@@ -713,14 +791,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/03aaf167c919.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/tucson/winnipeg/mb/70182666/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/tucson/winnipeg/mb/70182666/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:04:50",
+      "last_verified": "2026-10-08T00:15:48",
       "price": 32500.0,
       "price_currency": "CAD",
       "odometer_km": 57271,
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Tucson Preferred AWD",
@@ -731,14 +811,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/cd7c2a7eeada.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/tucson/winnipeg/mb/71176344/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/tucson/winnipeg/mb/71176344/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:01",
+      "last_verified": "2026-10-08T00:15:57",
       "price": 32999.0,
       "price_currency": "CAD",
       "odometer_km": 43281,
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Tucson Preferred CPO, AWD, HtdSts, HtdWhl, Accident Free",
@@ -749,14 +831,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/695cfb18b76d.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/tucson/winnipeg/mb/71176353/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/hyundai/tucson/winnipeg/mb/71176353/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:10",
+      "last_verified": "2026-10-08T00:16:05",
       "price": 32299.0,
       "price_currency": "CAD",
       "odometer_km": 54921,
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Hyundai Tucson Preferred AWD w-Trend Pkg",
@@ -774,7 +858,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Mazda CX-5 GS AWD",
@@ -792,7 +878,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Mazda CX-70 MHEV GT AWD",
@@ -803,14 +891,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/dfe14a491d5a.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/mazda/cx-70-mhev/winnipeg/mb/71158798/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/mazda/cx-70-mhev/winnipeg/mb/71158798/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:19",
+      "last_verified": "2026-10-08T00:16:16",
       "price": 39000.0,
       "price_currency": "CAD",
       "odometer_km": 75181,
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Nissan Kicks S",
@@ -821,14 +911,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/47a48bb40d1b.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/nissan/kicks/winnipeg/mb/70930206/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/nissan/kicks/winnipeg/mb/70930206/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:28",
+      "last_verified": "2026-10-08T00:16:25",
       "price": 25000.0,
       "price_currency": "CAD",
       "odometer_km": 23899,
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Nissan Rogue SV MOONROOF",
@@ -839,14 +931,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/acd1e0144b72.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/nissan/rogue/winnipeg/mb/70677889/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/nissan/rogue/winnipeg/mb/70677889/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:37",
+      "last_verified": "2026-10-08T00:16:35",
       "price": 27500.0,
       "price_currency": "CAD",
       "odometer_km": 58238,
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 RAM 1500 REBEL",
@@ -857,14 +951,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/4b7b04808c19.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/ram/1500/winnipeg/mb/66182654/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/ram/1500/winnipeg/mb/66182654/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:47",
+      "last_verified": "2026-10-08T00:16:45",
       "price": 54250.0,
       "price_currency": "CAD",
       "odometer_km": 60159,
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2025 Subaru Crosstrek Onyx AWD",
@@ -875,14 +971,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/338bad55a75a.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2025/subaru/crosstrek/winnipeg/mb/71280136/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2025/subaru/crosstrek/winnipeg/mb/71280136/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:05:55",
+      "last_verified": "2026-10-08T00:16:53",
       "price": 35499.0,
       "price_currency": "CAD",
-      "odometer_km": 35404,
+      "odometer_km": 35410,
       "year": 2025,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -893,14 +991,16 @@
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/a4544ff34962.html",
       "source_url": "https://www.winnipeghyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/winnipeg/mb/70251053/?sale_class=used",
       "dealer_url": "https://www.winnipeghyundai.com/vehicles/2026/hyundai/santa-fe-hybrid/winnipeg/mb/70251053/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T13:06:05",
+      "last_verified": "2026-10-08T00:17:03",
       "price": 55555.0,
       "price_currency": "CAD",
       "odometer_km": 10459,
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
@@ -918,7 +1018,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Preferred AWD",
@@ -936,7 +1038,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid LUXURY",
@@ -954,7 +1058,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid LUXURY",
@@ -972,7 +1078,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
@@ -990,7 +1098,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
@@ -1008,7 +1118,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
@@ -1026,7 +1138,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1044,7 +1158,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1062,7 +1178,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
@@ -1080,7 +1198,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra ESSENTIAL",
@@ -1098,7 +1218,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
@@ -1116,7 +1238,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra ESSENTIAL",
@@ -1134,7 +1258,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra ESSENTIAL",
@@ -1152,7 +1278,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1170,7 +1298,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
@@ -1188,7 +1318,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1206,7 +1338,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
@@ -1224,7 +1358,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra ESSENTIAL",
@@ -1242,7 +1378,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1260,7 +1398,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1278,7 +1418,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1296,7 +1438,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1314,7 +1458,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1332,7 +1478,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1350,7 +1498,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1368,7 +1518,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1386,7 +1538,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1404,7 +1558,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1422,7 +1578,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1440,7 +1598,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra ESSENTIAL",
@@ -1458,7 +1618,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED",
@@ -1476,7 +1638,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
@@ -1494,7 +1658,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra LUXURY",
@@ -1512,7 +1678,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1530,7 +1698,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
@@ -1548,7 +1718,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Elantra Preferred IVT w-Tech Pkg",
@@ -1566,7 +1738,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai IONIQ 5 PREFERRED AWD LR W/ ULTIMATE",
@@ -1584,7 +1758,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai IONIQ 5 PREFERRED",
@@ -1602,7 +1778,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai IONIQ 5 PREFERRED",
@@ -1620,7 +1798,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai IONIQ 5 PREFERRED",
@@ -1638,7 +1818,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai IONIQ 9 PREFERRED + W/ ULTIMATE",
@@ -1656,7 +1838,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
@@ -1674,7 +1858,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
@@ -1692,7 +1878,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
@@ -1710,7 +1898,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
@@ -1728,7 +1918,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
@@ -1746,7 +1938,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
@@ -1764,7 +1958,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED",
@@ -1782,7 +1978,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona N LINE",
@@ -1800,7 +1998,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
@@ -1818,7 +2018,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
@@ -1836,7 +2038,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
@@ -1854,7 +2058,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
@@ -1872,7 +2078,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
@@ -1890,7 +2098,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Kona PREFERRED",
@@ -1908,7 +2118,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid LUXURY",
@@ -1926,7 +2138,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid LUXURY",
@@ -1944,7 +2158,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
@@ -1962,7 +2178,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade XRT PRO",
@@ -1980,7 +2198,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade PREFERRED TREND",
@@ -1998,7 +2218,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2016,7 +2238,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2034,7 +2258,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2052,7 +2278,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2070,7 +2298,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2088,7 +2318,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2106,7 +2338,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2124,7 +2358,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2142,7 +2378,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2160,7 +2398,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2178,7 +2418,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2196,7 +2438,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Palisade ULTIMATE CALLIGRAPHY",
@@ -2214,7 +2458,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -2232,7 +2478,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid LUXURY",
@@ -2250,7 +2498,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -2268,7 +2518,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -2286,7 +2538,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -2304,7 +2558,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
@@ -2322,7 +2578,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -2340,7 +2598,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -2358,7 +2618,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
@@ -2376,7 +2638,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -2394,7 +2658,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -2412,7 +2678,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -2430,7 +2698,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid PREFERRED-TREND",
@@ -2448,7 +2718,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Sonata PREFERRED-TREND",
@@ -2466,7 +2738,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2484,7 +2758,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2502,7 +2778,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2520,7 +2798,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2538,7 +2818,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2556,7 +2838,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2574,7 +2858,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2592,7 +2878,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2610,7 +2898,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2628,7 +2918,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
@@ -2646,7 +2938,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2664,7 +2958,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2682,7 +2978,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2700,7 +2998,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2718,7 +3018,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2736,7 +3038,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2754,7 +3058,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2772,7 +3078,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2790,7 +3098,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2808,7 +3118,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2826,7 +3138,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
@@ -2844,7 +3158,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2862,7 +3178,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
@@ -2880,7 +3198,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
@@ -2898,7 +3218,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
@@ -2916,7 +3238,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2934,7 +3258,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2952,7 +3278,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -2970,7 +3298,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -2988,7 +3318,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
@@ -3006,7 +3338,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
@@ -3024,7 +3358,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
@@ -3042,7 +3378,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3060,7 +3398,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
@@ -3078,7 +3418,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3096,7 +3438,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3114,7 +3458,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3132,7 +3478,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3150,7 +3498,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
@@ -3168,7 +3518,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
@@ -3186,7 +3538,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3204,7 +3558,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3222,7 +3578,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3240,7 +3598,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
@@ -3258,7 +3618,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ULTIMATE",
@@ -3276,7 +3638,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid Ultimate AWD",
@@ -3294,7 +3658,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid Ultimate AWD",
@@ -3312,7 +3678,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3330,7 +3698,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3348,7 +3718,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3366,7 +3738,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3384,7 +3758,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3402,7 +3778,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3420,7 +3798,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3438,7 +3818,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3456,7 +3838,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3474,7 +3858,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3492,7 +3878,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3510,7 +3898,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3528,7 +3918,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3546,7 +3938,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3564,7 +3958,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3582,7 +3978,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3600,7 +3998,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3618,7 +4018,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3636,7 +4038,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3654,7 +4058,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3672,7 +4078,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3690,7 +4098,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3708,7 +4118,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3726,7 +4138,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3744,7 +4158,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3762,7 +4178,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3780,7 +4198,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3798,7 +4218,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson LEASE FROM $99/WEEKLY PLUS TAX",
@@ -3816,7 +4238,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3834,7 +4258,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3852,7 +4278,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3870,7 +4298,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3888,7 +4318,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3906,7 +4338,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3924,7 +4358,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3942,7 +4378,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -3960,7 +4398,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3978,7 +4418,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -3996,7 +4438,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4014,7 +4458,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4032,7 +4478,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4050,7 +4498,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4068,7 +4518,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4086,7 +4538,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4104,7 +4558,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4122,7 +4578,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4140,7 +4598,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4158,7 +4618,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4176,7 +4638,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4194,7 +4658,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4212,7 +4678,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4230,7 +4698,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED",
@@ -4248,7 +4718,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4266,7 +4738,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4284,7 +4758,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4302,7 +4778,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4320,7 +4798,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
@@ -4338,7 +4818,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue ULTIMATE",
@@ -4356,7 +4838,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue PREFERRED",
@@ -4374,7 +4858,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue ULTIMATE",
@@ -4392,7 +4878,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue ESSENTIAL",
@@ -4410,7 +4898,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue ULTIMATE",
@@ -4428,7 +4918,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue PREFERRED",
@@ -4446,7 +4938,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue PREFERRED",
@@ -4464,7 +4958,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue ESSENTIAL",
@@ -4482,7 +4978,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue Preferred IVT w-Two-Tone",
@@ -4500,7 +4998,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue Preferred IVT w-Two-Tone",
@@ -4518,7 +5018,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue Preferred IVT w-Two-Tone",
@@ -4536,7 +5038,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue Essential IVT",
@@ -4554,7 +5058,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue Essential IVT",
@@ -4572,7 +5078,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Hyundai Venue Essential IVT",
@@ -4590,7 +5098,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2026 Mercedes-Benz CLA Coupe CLA 250",
@@ -4608,7 +5118,9 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "CLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ULTIMATE",
@@ -4626,7 +5138,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ULTIMATE",
@@ -4644,7 +5158,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ULTIMATE",
@@ -4662,7 +5178,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ULTIMATE",
@@ -4680,7 +5198,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
@@ -4698,7 +5218,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
@@ -4716,7 +5238,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
@@ -4734,7 +5258,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
@@ -4752,7 +5278,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
@@ -4770,7 +5298,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
@@ -4788,7 +5318,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona LUXURY",
@@ -4806,7 +5338,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED TREND",
@@ -4824,7 +5358,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
@@ -4842,7 +5378,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
@@ -4860,7 +5398,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED TREND",
@@ -4878,7 +5418,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
@@ -4896,7 +5438,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED TREND",
@@ -4914,7 +5458,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED TREND",
@@ -4932,7 +5478,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
@@ -4950,7 +5498,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona LUXURY",
@@ -4968,7 +5518,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
@@ -4986,7 +5538,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED TREND",
@@ -5004,7 +5558,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
@@ -5022,7 +5578,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
@@ -5040,7 +5598,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Luxury AWD",
@@ -5058,7 +5618,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
@@ -5076,7 +5638,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Luxury AWD",
@@ -5094,7 +5658,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
@@ -5112,7 +5678,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Essential FWD",
@@ -5130,7 +5698,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Essential FWD",
@@ -5148,7 +5718,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Essential FWD",
@@ -5166,7 +5738,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred AWD",
@@ -5184,7 +5758,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred FWD",
@@ -5202,7 +5778,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Luxury AWD",
@@ -5220,7 +5798,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred FWD",
@@ -5238,7 +5818,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred AWD",
@@ -5256,7 +5838,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
@@ -5274,7 +5858,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Luxury AWD",
@@ -5292,7 +5878,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Luxury AWD",
@@ -5310,7 +5898,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
@@ -5328,7 +5918,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Essential FWD",
@@ -5346,7 +5938,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 2.0L Essential FWD",
@@ -5364,7 +5958,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai KONA Preferred FWD",
@@ -5382,7 +5978,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona PREFERRED",
@@ -5400,7 +5998,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 1.6T N Line Ultimate AWD",
@@ -5418,7 +6018,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 1.6T N Line Ultimate AWD",
@@ -5436,7 +6038,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Kona 1.6T N Line Ultimate AWD",
@@ -5454,7 +6058,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
@@ -5472,7 +6078,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
@@ -5490,7 +6098,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
@@ -5508,7 +6118,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5526,7 +6138,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5544,7 +6158,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
@@ -5562,7 +6178,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night AWD",
@@ -5580,7 +6198,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5598,7 +6218,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5616,7 +6238,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Luxury 8-Passenger AWD",
@@ -5634,7 +6258,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5652,7 +6278,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Luxury 8-Passenger AWD",
@@ -5670,7 +6298,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5688,7 +6318,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Luxury 7-Passenger AWD",
@@ -5706,7 +6338,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5724,7 +6358,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5742,7 +6378,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5760,7 +6398,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
@@ -5778,7 +6418,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade XRT PRO",
@@ -5796,7 +6438,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade XRT PRO",
@@ -5814,7 +6458,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Palisade PREFERRED TREND",
@@ -5832,7 +6478,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -5850,7 +6498,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -5868,7 +6518,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -5886,7 +6538,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -5904,7 +6558,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid PREFERRED",
@@ -5922,7 +6578,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -5940,7 +6598,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -5958,7 +6618,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -5976,7 +6638,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -5994,7 +6658,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -6012,7 +6678,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -6030,7 +6698,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -6048,7 +6718,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
@@ -6066,7 +6738,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6084,7 +6758,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -6102,7 +6778,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6120,7 +6798,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6138,7 +6818,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6156,7 +6838,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6174,7 +6858,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
@@ -6192,7 +6878,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6210,7 +6898,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid PREFERRED TREND",
@@ -6228,7 +6918,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6246,7 +6938,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
@@ -6264,7 +6958,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6282,7 +6978,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
@@ -6300,7 +6998,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
@@ -6318,7 +7018,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Winnipeg",
+      "province": "MB"
     }
   ]
 }
