@@ -4,7 +4,7 @@
 
 ## Inventory
 - [Used vehicles](https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/): 376 vehicles, updated regularly
-- [Inventory feed](https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
+- [Inventory feed](https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/inventory.json): structured JSON, index of all vehicles with VIN, year, make, model and price; full details are on each vehicle page
 
 ## Resources
 - [Dealership information](https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/): business identity, contact and hours
