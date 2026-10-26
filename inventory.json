@@ -1,6 +1,6 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-10-25T21:47:42",
+  "generated_at": "2026-10-26T06:06:01",
   "vehicle_count": 376,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -50,7 +50,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Tucson Essential AWD",
+      "name": "2022 Hyundai Tucson Essential AWD, HtdSts & Mirrors, LaneKeep, CarPlay",
       "vin": "KM8JBCAE2NU106181",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/d964194e2a11.html",
       "year": 2022,
@@ -90,7 +90,7 @@
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 43499.0,
+      "price": 43250.0,
       "price_currency": "CAD"
     },
     {
@@ -105,7 +105,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Santa Cruz PREFERRED",
+      "name": "2023 Hyundai Santa Cruz Preferred CPO, AWD, HtdSts, CarPlay, BSM, BkupCam",
       "vin": "5NTJCDAF2PH073097",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/68802b55504e.html",
       "year": 2023,
@@ -512,14 +512,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Venue Ultimate IVT w-Black Interior",
+      "name": "2025 Hyundai Venue Ultimate, HtdSts, CarPlay, BkupCam, Accident Free",
       "vin": "KMHRC8A30SU352217",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/f7d3364e091e.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 26998.0,
+      "price": 26500.0,
       "price_currency": "CAD"
     },
     {
