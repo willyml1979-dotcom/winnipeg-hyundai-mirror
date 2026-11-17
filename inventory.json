@@ -1,7 +1,7 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-11-17T04:04:36",
-  "vehicle_count": 372,
+  "generated_at": "2026-11-17T05:30:16",
+  "vehicle_count": 363,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -699,17 +699,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
-      "vin": "KMHLR4DF8TU308101",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/a39bd9d709d1.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 36324.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra PREFERRED TECH",
       "vin": "KMHLM4DG0TU112158",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/43140ba18da4.html",
@@ -718,17 +707,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 30087.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra PREFERRED TECH",
-      "vin": "KMHLM4DG3TU150340",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/e3a0441d4285.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 29075.0,
       "price_currency": "CAD"
     },
     {
@@ -754,17 +732,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra LUXURY",
-      "vin": "KMHLN4DGXTU183171",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d25cd9a236bd.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 32474.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra ESSENTIAL",
       "vin": "KMHLM4DG3TU213193",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/1e5a8c61c1e8.html",
@@ -773,17 +740,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 26497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra PREFERRED",
-      "vin": "KMHLM4DG4TU234151",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/2bb2852c52fe.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 28297.0,
       "price_currency": "CAD"
     },
     {
@@ -820,17 +776,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ESSENTIAL",
-      "vin": "KMHLM4DG8TU242978",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/c4f2ab99cb33.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 26221.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG0TU248614",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/ad672b2981b8.html",
@@ -839,17 +784,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 28296.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra PREFERRED TECH",
-      "vin": "KMHLM4DG1TU239291",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/31030eaa4a80.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 30472.0,
       "price_currency": "CAD"
     },
     {
@@ -872,17 +806,6 @@
       "model": "Elantra",
       "condition": "new",
       "price": 28999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Elantra PREFERRED",
-      "vin": "KMHLM4DG8TU270747",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/3b497283412b.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 28524.0,
       "price_currency": "CAD"
     },
     {
@@ -941,17 +864,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra ESSENTIAL",
-      "vin": "KMHLM4DG2TU287513",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/89790f3a1107.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 27574.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra PREFERRED",
       "vin": "KMHLM4DG3TU292977",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/27b14e792cc9.html",
@@ -1007,6 +919,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Elantra N LINE ULTIMATE",
+      "vin": "KMHLR4DF8TU308101",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/cf90b0bba5f2.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Elantra Preferred IVT w-Tech Pkg",
       "vin": "KMHLM4DG9TU307286",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/a777433424f3.html",
@@ -1037,17 +960,6 @@
       "model": "IONIQ 5",
       "condition": "new",
       "price": 59899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai IONIQ 5 PREFERRED",
-      "vin": "KM8KNDDC9TU399070",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/393ec7f2c080.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "new",
-      "price": 56374.0,
       "price_currency": "CAD"
     },
     {
@@ -1085,17 +997,6 @@
     },
     {
       "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
-      "vin": "KM8HE3A61TU047328",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/31cf4df8ed6b.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 48599.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona Electric PREFERRED W/ULTIMATE PACKAGE",
       "vin": "KM8HE3A67TU047219",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/449ff57bf935.html",
       "year": 2026,
@@ -1125,17 +1026,6 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 50674.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona N LINE",
-      "vin": "KM8HACA30TU352319",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/dc99ba062e06.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 37692.0,
       "price_currency": "CAD"
     },
     {
@@ -1359,28 +1249,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
-      "vin": "KM8P2DG14TU205246",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/7d4c07aa38db.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 46249.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid PREFERRED TREND",
-      "vin": "KM8P3DG11TU212524",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/0719e19c9344.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 50549.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG11TU210914",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/5165b1e09772.html",
@@ -1414,14 +1282,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Sonata Hybrid PREFERRED-TREND",
-      "vin": "KMHL34JJ2TA149359",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/2f363f6790ce.html",
+      "name": "2026 Hyundai Santa Fe Hybrid PREFERRED",
+      "vin": "KM8P2DG18TU201510",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/84744801031f.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybrid",
+      "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 38820.0,
+      "price": 48299.0,
       "price_currency": "CAD"
     },
     {
@@ -1436,28 +1304,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Sonata PREFERRED-TREND",
-      "vin": "KMHL44JA3TA575235",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d3ae6f9941fa.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "condition": "new",
-      "price": 38424.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid N-LINE",
-      "vin": "KM8JCDD16TU403043",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/23dc2cd064de.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 46549.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD17TU427397",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/74370e7bd90b.html",
@@ -1466,50 +1312,6 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 50118.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
-      "vin": "KM8JCDD13TU438039",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d8ec56c91be4.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 48580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid N-LINE",
-      "vin": "KM8JCDD10TU452187",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/65015b9185e7.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 46466.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid N-LINE",
-      "vin": "KM8JCDD15TU456767",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/9dd2baef2add.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 46479.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
-      "vin": "KM8JCDD17TU480651",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/cad2d79ec99f.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 51924.0,
       "price_currency": "CAD"
     },
     {
@@ -1635,17 +1437,6 @@
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-LINE",
-      "vin": "KM8JCDD13TU514424",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d67f1656d087.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47924.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid N-LINE",
       "vin": "KM8JCDD1XTU514159",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/0bbf4a37e6bd.html",
       "year": 2026,
@@ -1653,17 +1444,6 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 47674.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
-      "vin": "KM8JBDD16TU514873",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/67fac6b99c71.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 46924.0,
       "price_currency": "CAD"
     },
     {
@@ -1697,17 +1477,6 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 46049.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid NIGHT EDITION",
-      "vin": "KM8JBDD17TU522853",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/618d06b7b8b4.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47774.0,
       "price_currency": "CAD"
     },
     {
@@ -1778,28 +1547,6 @@
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
-      "vin": "KM8JCDD10TU540009",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/7debf8cef5ca.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 52174.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD14TU542216",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/4ca9b61b7170.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 52174.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD1XTU540468",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/abe2ad4cd089.html",
       "year": 2026,
@@ -1855,17 +1602,6 @@
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD14TU539753",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/157148b5dd71.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 52174.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD1XTU542138",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/073d30abbe20.html",
       "year": 2026,
@@ -1876,25 +1612,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
+      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD18TU547323",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/f2e74c2bf0c2.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 51824.0,
+      "price": 51849.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
+      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
       "vin": "KM8JCDD1XTU547291",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/ca5c46260759.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 51824.0,
+      "price": 51849.0,
       "price_currency": "CAD"
     },
     {
@@ -1920,36 +1656,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid ULTIMATE",
-      "vin": "KM8JDDD27TU536240",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/1157c9f00823.html",
+      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
+      "vin": "KM8JCDD19TU559576",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/852debd53a5e.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
+      "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 53924.0,
+      "price": 52199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
+      "vin": "KM8JCDD10TU559739",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/8e9a73fc7315.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "price": 52199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid N-LINE",
+      "vin": "KM8JCDD17TU559401",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/9333fdca0b1d.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "price": 48449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid N-LINE",
+      "vin": "KM8JCDD13TU559301",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/23a65875f0e4.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "price": 48449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid ULTIMATE",
+      "vin": "KM8JCDD17TU559639",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/ad32e6bbb3a6.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "price": 52199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid N-LINE",
+      "vin": "KM8JCDD18TU560475",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/3e09113f39fe.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "price": 48799.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ULTIMATE",
-      "vin": "KM8JDDD23TU534985",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/30f7b73e1dcb.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "condition": "new",
-      "price": 53949.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Plug-In Hybrid Ultimate AWD",
       "vin": "KM8JDDD24TU547566",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/0c7add0f7b71.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
       "condition": "new",
-      "price": 53574.0,
+      "price": 53599.0,
       "price_currency": "CAD"
     },
     {
@@ -1964,14 +1744,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson PREFERRED TREND",
-      "vin": "3KMJCCDE1TE029213",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/7474a4dbeb61.html",
+      "name": "2026 Hyundai Tucson Plug-In Hybrid ULTIMATE",
+      "vin": "KM8JDDD20TU530893",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/f2ddf44116e1.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson",
+      "model": "Tucson Plug-In Hybrid",
       "condition": "new",
-      "price": 42924.0,
+      "price": 53949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Plug-In Hybrid ULTIMATE",
+      "vin": "KM8JDDD24TU551262",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d0bb18744e48.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Plug-In Hybrid",
+      "condition": "new",
+      "price": 53949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Plug-In Hybrid ULTIMATE",
+      "vin": "KM8JDDD27TU548646",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/daef652e811d.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Plug-In Hybrid",
+      "condition": "new",
+      "price": 53949.0,
       "price_currency": "CAD"
     },
     {
@@ -2075,17 +1877,6 @@
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
-      "vin": "3KMJCCDE5TE036603",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d334410e7da7.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 41645.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson PREFERRED TREND",
       "vin": "3KMJCCDE6TE036593",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/e74060f5bc2a.html",
       "year": 2026,
@@ -2137,17 +1928,6 @@
       "model": "Tucson",
       "condition": "new",
       "price": 38974.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson PREFERRED",
-      "vin": "3KMJBCDE5TE037303",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/1643dccb9866.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 38474.0,
       "price_currency": "CAD"
     },
     {
@@ -2548,13 +2328,57 @@
     },
     {
       "name": "2026 Hyundai Tucson PREFERRED TREND",
-      "vin": "KM8JCCDE0TU497210",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/6cf4bdf42e50.html",
+      "vin": "KM8JCCDE6TU505553",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/bed92d4c5b7b.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 43249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson PREFERRED TREND",
+      "vin": "KM8JCCDEXTU505779",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/e7f1fd536823.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
       "price": 43599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson PREFERRED TREND",
+      "vin": "KM8JCCDE0TU505774",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/1c688dfaa6a8.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 43599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson PREFERRED TREND",
+      "vin": "KM8JCCDE9TU505773",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d0b56cd7c981.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 43599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson PREFERRED TREND",
+      "vin": "KM8JCCDEXTU505748",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/93678f621fb1.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "new",
+      "price": 43249.0,
       "price_currency": "CAD"
     },
     {
@@ -2577,17 +2401,6 @@
       "model": "Venue",
       "condition": "new",
       "price": 28843.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Venue ULTIMATE",
-      "vin": "KMHRC8A39TU490601",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/3458e6aa5d8e.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "new",
-      "price": 30999.0,
       "price_currency": "CAD"
     },
     {
@@ -2616,17 +2429,6 @@
       "name": "2026 Hyundai Venue PREFERRED",
       "vin": "KMHRC8A32TU501373",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/723259db683d.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "new",
-      "price": 28949.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Venue PREFERRED",
-      "vin": "KMHRC8A31TU501347",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/08e6355e8510.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
@@ -2719,7 +2521,7 @@
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 67974.0,
+      "price": 67999.0,
       "price_currency": "CAD"
     },
     {
@@ -2752,7 +2554,7 @@
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 67974.0,
+      "price": 67999.0,
       "price_currency": "CAD"
     },
     {
@@ -2785,7 +2587,7 @@
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 67974.0,
+      "price": 67999.0,
       "price_currency": "CAD"
     },
     {
@@ -2803,17 +2605,6 @@
       "name": "2027 Hyundai IONIQ 5 ULTIMATE",
       "vin": "KM8KRDDC4VU427851",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/195220517327.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "new",
-      "price": 67999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai IONIQ 5 ULTIMATE",
-      "vin": "KM8KRDDC8VU427822",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/e356830ee7d3.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
@@ -2855,47 +2646,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
+      "name": "2027 Hyundai IONIQ 5 ULTIMATE",
       "vin": "KM8KRDDC6VU427771",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/5d8e091a63fb.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 67974.0,
+      "price": 67999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
+      "name": "2027 Hyundai IONIQ 5 ULTIMATE",
       "vin": "KM8KRDDC6VU427916",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/64a13d9ba4d9.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 67974.0,
+      "price": 67999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
+      "name": "2027 Hyundai IONIQ 5 ULTIMATE",
       "vin": "KM8KRDDC1VU428374",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/820fa6c5469f.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 67624.0,
+      "price": 67649.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
+      "name": "2027 Hyundai IONIQ 5 ULTIMATE",
       "vin": "KM8KRDDC1VU428035",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/0ab0f6f75b03.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "new",
-      "price": 67974.0,
+      "price": 67999.0,
       "price_currency": "CAD"
     },
     {
@@ -3009,6 +2800,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Kona Electric PREFERRED W/TREND PACKAGE",
+      "vin": "KM8HD3A60VU051845",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/838c2f508acd.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 50649.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA3XVU508194",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/384142b15a19.html",
@@ -3020,17 +2822,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Kona LUXURY",
-      "vin": "KM8HBCAB4VU509891",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/ee691c625af6.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 41499.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Hyundai Kona PREFERRED TREND",
       "vin": "KM8HCCAB6VU513082",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/735a52a5fbaf.html",
@@ -3039,17 +2830,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 36699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona ESSENTIAL",
-      "vin": "KM8HA3ABXVU510174",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/6c9f30ae93f9.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 31499.0,
       "price_currency": "CAD"
     },
     {
@@ -3075,17 +2855,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Kona ESSENTIAL",
-      "vin": "KM8HACAB8VU514904",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/1250916d9d24.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 33849.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Hyundai Kona PREFERRED TREND",
       "vin": "KM8HCCAB3VU513346",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/eae7f60f2f5c.html",
@@ -3094,17 +2863,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 37049.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona PREFERRED TREND",
-      "vin": "KM8HCCAB6VU513468",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/367dbe42ece2.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 38799.0,
       "price_currency": "CAD"
     },
     {
@@ -3142,39 +2900,6 @@
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
-      "vin": "KM8HACAB6VU527392",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/86bdd05fb9d3.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 33849.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona PREFERRED TREND",
-      "vin": "KM8HCCAB5VU527359",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/22b63980a2ef.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 38799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona LUXURY",
-      "vin": "KM8HBCAB2VU528861",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/baca2fffe439.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 41499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona ESSENTIAL",
       "vin": "KM8HACAB4VU526239",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/92c51d1e6626.html",
       "year": 2027,
@@ -3182,17 +2907,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 33499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona LUXURY",
-      "vin": "KM8HBCAB1VU530925",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/6923c57a0caa.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 41499.0,
       "price_currency": "CAD"
     },
     {
@@ -3219,17 +2933,6 @@
     },
     {
       "name": "2027 Hyundai Kona ESSENTIAL",
-      "vin": "KM8HA3AB4VU530632",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/7adaea3d105b.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 31849.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona ESSENTIAL",
       "vin": "KM8HA3AB4VU530615",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/97655ced8015.html",
       "year": 2027,
@@ -3237,28 +2940,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 31849.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona PREFERRED",
-      "vin": "KM8HBCAB0VU531323",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/08a3dcb31d33.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 36349.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona PREFERRED",
-      "vin": "KM8HB3ABXVU533676",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/b4dcf86a7f0c.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 34349.0,
       "price_currency": "CAD"
     },
     {
@@ -3339,17 +3020,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Kona ESSENTIAL",
-      "vin": "KM8HA3AB1VU536517",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/b15659b0e0fc.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 31849.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Hyundai Kona PREFERRED",
       "vin": "KM8HBCABXVU534679",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/a9e7928a39a2.html",
@@ -3383,14 +3053,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Kona 1.6T N Line Ultimate AWD",
+      "name": "2027 Hyundai Kona N LINE ULTIMATE",
       "vin": "KM8HECA3XVU541924",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/196e1e4dff06.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "new",
-      "price": 44274.0,
+      "price": 44299.0,
       "price_currency": "CAD"
     },
     {
@@ -3428,17 +3098,6 @@
     },
     {
       "name": "2027 Hyundai Kona PREFERRED",
-      "vin": "KM8HBCAB3VU551159",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/000a9fe3903f.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 36349.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Kona PREFERRED",
       "vin": "KM8HB3AB1VU549488",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/37d86fa64eac.html",
       "year": 2027,
@@ -3468,6 +3127,149 @@
       "model": "Kona",
       "condition": "new",
       "price": 34349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED TREND",
+      "vin": "KM8HCCAB2VU554311",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/068bea21f8f4.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 38799.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED TREND",
+      "vin": "KM8HCCAB3VU554222",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/9e83ed9e0775.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 38799.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED TREND",
+      "vin": "KM8HCCAB4VU554228",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/bc6681afd8e3.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 38799.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona ESSENTIAL",
+      "vin": "KM8HA3AB8VU510383",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/5f5c902e2cfc.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 31849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona LUXURY",
+      "vin": "KM8HBCAB7VU556929",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/2cb0d743eb46.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 41499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED",
+      "vin": "KM8HBCAB2VU558541",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/7b4f216c0f59.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona ESSENTIAL",
+      "vin": "KM8HA3AB1VU554824",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/81dae78930b9.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 31849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona LUXURY",
+      "vin": "KM8HBCAB8VU556583",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/be6c7626d48a.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 41499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED",
+      "vin": "KM8HBCAB5VU559098",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/fdb8dec9732b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED",
+      "vin": "KM8HBCAB7VU559118",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/2d8ce8408b2f.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED",
+      "vin": "KM8HBCAB8VU559161",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/b5ce60baa3b4.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED",
+      "vin": "KM8HBCAB1VU558952",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/87559fcc4c65.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona PREFERRED",
+      "vin": "KM8HBCABXVU559047",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/651c23723ac9.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 35999.0,
       "price_currency": "CAD"
     },
     {
@@ -3516,28 +3318,6 @@
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
-      "vin": "KM8RMESA9VU138968",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/70af2458712c.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Palisade Hybrid",
-      "condition": "new",
-      "price": 71199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY NIGHT",
-      "vin": "KM8RMESA4VU135671",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d1e1472572d7.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Palisade Hybrid",
-      "condition": "new",
-      "price": 73199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMESA9VU139148",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/3440cb977726.html",
       "year": 2027,
@@ -3567,28 +3347,6 @@
       "model": "Palisade Hybrid",
       "condition": "new",
       "price": 66449.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
-      "vin": "KM8RMESA5VU145965",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/1880bd003780.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Palisade Hybrid",
-      "condition": "new",
-      "price": 71199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Palisade Hybrid LUXURY",
-      "vin": "KM8RKESA0VU146379",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/c2e2b38ca581.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Palisade Hybrid",
-      "condition": "new",
-      "price": 66099.0,
       "price_currency": "CAD"
     },
     {
@@ -3713,6 +3471,105 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Palisade Hybrid LUXURY",
+      "vin": "KM8RKESAXVU164730",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/bb8edff07d39.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 66449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid LUXURY",
+      "vin": "KM8RKESA0VU166213",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/2d4feb1d8765.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 66449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY NIGHT",
+      "vin": "KM8RMESA5VU167304",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/4334945ddaba.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 72849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY NIGHT",
+      "vin": "KM8RMESA8VU165997",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/e150553ec82d.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 73199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid LUXURY",
+      "vin": "KM8RKESAXVU165022",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/20ea36da292e.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 66599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid LUXURY",
+      "vin": "KM8RKESA7VU164698",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/82e87df7c2b5.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 66949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
+      "vin": "KM8RMESA8VU168768",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/2d7143df8be4.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 71199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
+      "vin": "KM8RMESA6VU168719",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/3ee9edc2c565.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 71199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
+      "vin": "KM8RMESA7VU167952",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/190f7b091c3e.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 70849.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Palisade XRT PRO",
       "vin": "KM8RJES2XVU145347",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/b50f70891d5f.html",
@@ -3753,7 +3610,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61824.0,
+      "price": 60099.0,
       "price_currency": "CAD"
     },
     {
@@ -3878,17 +3735,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
-      "vin": "KM8P5DG17VU223170",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/bbc5746d17b9.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 61849.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Hyundai Santa Fe Hybrid PREFERRED TREND",
       "vin": "KM8P3DG15VU223223",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/a251730bcf1e.html",
@@ -3977,47 +3823,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
+      "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG14VU224986",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/9660b3bff176.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61824.0,
+      "price": 61849.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
-      "vin": "KM8P3DG12VU224247",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/8e95ad4974fd.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 54074.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
+      "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG1XVU224829",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/0009a823fd88.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61824.0,
+      "price": 61849.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
+      "name": "2027 Hyundai Santa Fe Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8P5DG13VU226471",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/5e0d755524bb.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61824.0,
+      "price": 61849.0,
       "price_currency": "CAD"
     },
     {
@@ -4054,14 +3889,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
-      "vin": "KM8P3DG1XVU221144",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/1b135bd6345d.html",
+      "name": "2027 Hyundai Sonata Hybrid ULTIMATE",
+      "vin": "KMHL34JJ7VA191996",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/3510e01c1306.html",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
+      "model": "Sonata Hybrid",
       "condition": "new",
-      "price": 55349.0,
+      "price": 45399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Sonata Hybrid ULTIMATE",
+      "vin": "KMHL34JJ6VA192329",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/62231b05fc94.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Sonata Hybrid",
+      "condition": "new",
+      "price": 45399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Sonata Hybrid ULTIMATE",
+      "vin": "KMHL34JJ9VA192485",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/d974da96ad54.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Sonata Hybrid",
+      "condition": "new",
+      "price": 46649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Sonata Hybrid PREFERRED-TREND",
+      "vin": "KMHL34JJ8VA192140",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/86c27877b594.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Sonata Hybrid",
+      "condition": "new",
+      "price": 41299.0,
       "price_currency": "CAD"
     },
     {
@@ -4095,6 +3963,39 @@
       "model": "Venue",
       "condition": "new",
       "price": 30549.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Venue PREFERRED",
+      "vin": "KMHRC8A31VU510374",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/37b4ec8fe94c.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 29749.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Venue ULTIMATE",
+      "vin": "KMHRC8A33VU512241",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/9f51beacb17b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 31599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Venue PREFERRED",
+      "vin": "KMHRC8A33VU511882",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/26c4d0d0bac7.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 29749.0,
       "price_currency": "CAD"
     }
   ]
