@@ -1,10 +1,21 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-10-26T06:40:29",
-  "vehicle_count": 376,
+  "generated_at": "2026-11-17T04:04:36",
+  "vehicle_count": 372,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2020 Hyundai Tucson Ultimate AWD, Leather, Pano, Htd/Cool Sts, Nav,360",
+      "vin": "KM8J3CAL5LU143752",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/ba3fa05ad223.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 23995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2020 Land Rover Discovery Sport S",
       "vin": "SALCJ2FX2LH837051",
@@ -28,14 +39,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Package",
-      "vin": "KM8S3DA12NU042194",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/07ad60fb9513.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
+      "name": "2021 Nissan Murano Midnight Edition",
+      "vin": "5N1AZ2CS8MC135231",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/0e498a70b9e1.html",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Murano",
       "condition": "used",
-      "price": 27779.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -83,14 +94,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota Tacoma BASE",
+      "name": "2022 Toyota Tacoma Double Cab Base 4x4 V6, HtdSts, CarPlay, BkupCam, TowPkg",
       "vin": "3TYDZ5BN6NT011896",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/8150886f5d74.html",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/cf959dad7006.html",
       "year": 2022,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 43250.0,
+      "price": 47995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Ford Mustang Mach-E PREMIUM",
+      "vin": "3FMTK3SU9PMA15947",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/c05b69efb1b6.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "used",
+      "price": 37449.0,
       "price_currency": "CAD"
     },
     {
@@ -105,6 +127,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Hyundai Kona Essential",
+      "vin": "KM8K1CAB3PU054771",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/004024b5f831.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 22499.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Hyundai Santa Cruz Preferred CPO, AWD, HtdSts, CarPlay, BSM, BkupCam",
       "vin": "5NTJCDAF2PH073097",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/68802b55504e.html",
@@ -116,58 +149,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Tucson AWD | Heated Seats | Apple CarPlay | Backup Camera",
+      "name": "2023 Hyundai Tucson Preferred, AWD, HtdSts, CarPlay, BkupCam, BSM",
       "vin": "KM8JBCAE9PU240222",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/53ced8ca2186.html",
       "year": 2023,
       "make": "Hyundai",
-      "model": "Tucson AWD",
-      "condition": "used",
-      "price": 25000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Tucson N Line AWD",
-      "vin": "KM8JCCAE4PU183490",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/3d7a3939b24c.html",
-      "year": 2023,
-      "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 29499.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Gladiator WILLYS",
-      "vin": "1C6HJTAG4PL533711",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/36fcf7b99969.html",
+      "name": "2023 Hyundai Venue Preferred CPO, No Accidents, Htd Sts/Whl, CarPlay",
+      "vin": "KMHRC8A39PU224680",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/52e1ef2681a2.html",
       "year": 2023,
-      "make": "Jeep",
-      "model": "Gladiator",
+      "make": "Hyundai",
+      "model": "Venue",
       "condition": "used",
-      "price": 39500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Forte Sedan EX IVT",
-      "vin": "3KPF34AD1PE542591",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/88d1c790a8eb.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 22799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage X-Line Limited AWD w-Black Interior",
-      "vin": "KNDPXCAF6P7053009",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/302b2ba220c3.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 29000.0,
+      "price": 20250.0,
       "price_currency": "CAD"
     },
     {
@@ -178,29 +178,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 35700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Tesla Model X AWD",
-      "vin": "7SAXCBE51PF381278",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/2ff188b5289a.html",
-      "year": 2023,
-      "make": "Tesla",
-      "model": "Model X AWD",
-      "condition": "used",
-      "price": 85500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota RAV4 XLE",
-      "vin": "2T3R1RFV0PW382466",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/084237a6f480.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 37000.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -211,29 +189,18 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 23899.0,
+      "price": 22495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Elantra Luxury IVT w-Two-Tone Interior",
-      "vin": "KMHLN4DG0RU702558",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/92a62510804f.html",
+      "name": "2024 Hyundai Kona Preferred AWD, Htd Sts/Whl, Adpt Cruise, CarPlay",
+      "vin": "KM8HBCAB3RU049127",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/056567a22c96.html",
       "year": 2024,
       "make": "Hyundai",
-      "model": "Elantra",
+      "model": "Kona",
       "condition": "used",
-      "price": 24800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Fe Hybrid Preferred Hybrid CPO, AWD, HtdSts, Accident Free",
-      "vin": "KM8P3DG10RU045386",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/65674e9120ef.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "used",
-      "price": 39750.0,
+      "price": 28295.0,
       "price_currency": "CAD"
     },
     {
@@ -248,17 +215,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Tucson Plug-In Hybrid Ultimate PHEV, AWD, Lthr, PanoRoof, HtdSts, 360Cam",
-      "vin": "KM8JDDD24RU151596",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/c0691b88d91f.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "condition": "used",
-      "price": 34699.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Hyundai Tucson Preferred CPO, AWD, HtdSts, HtdWhl, CarPlay",
       "vin": "KM8JBCDE6RU344147",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/fdb946887b2f.html",
@@ -270,6 +226,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Mazda Mazda3 Sport GS",
+      "vin": "JM1BPBLM7R1655763",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/981640a96cbc.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 24699.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Mitsubishi RVR ES, HtdSts, CarPlay, BkupCam, Accident Free",
       "vin": "JA4AJUAU3RU608475",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/3354018d45a2.html",
@@ -277,7 +244,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 25000.0,
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
@@ -314,25 +281,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Sentra SV",
-      "vin": "3N1AB8CV4RY251520",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/304a84cea602.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 19999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volvo V60 Cross Country B5 AWD Plus",
+      "name": "2024 Volvo V60 Cross Country B5 AWD Plus, Leather, Pano Roof, Htd Sts, CarPlay",
       "vin": "YV4L12WY6R2133556",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/85bf5ccb582b.html",
       "year": 2024,
       "make": "Volvo",
       "model": "V60",
       "condition": "used",
-      "price": 39000.0,
+      "price": 36495.0,
       "price_currency": "CAD"
     },
     {
@@ -354,29 +310,18 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 39500.0,
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport Big Bend 4x4",
+      "name": "2025 Ford Bronco Sport Big Bend 4x4, Htd Seats/Whl, CarPlay, Remote Start",
       "vin": "3FMCR9BN5SRE30377",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/e1f1b6df3558.html",
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 31000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Escape Platinum AWD",
-      "vin": "1FMCU9JA3SUA73884",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/c1ea96beaa3a.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 32800.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -402,14 +347,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Kona Preferred Trend CPO, Sunrf, HtdSts/HtdWhl, CarPlay",
-      "vin": "KM8HCCAB6SU313119",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/9eaa9550dcfb.html",
+      "name": "2025 Hyundai Kona Electric Ultimate, Sunroof, Htd/Cool Sts, 360Cam, PremAudio",
+      "vin": "KM8HE3A64SU023104",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/513a8264faf1.html",
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona",
+      "model": "Kona Electric",
       "condition": "used",
-      "price": 30250.0,
+      "price": 35495.0,
       "price_currency": "CAD"
     },
     {
@@ -421,28 +366,6 @@
       "model": "Kona",
       "condition": "used",
       "price": 28999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Kona Preferred TREND CPO, HtdSts, HtdWhl, No Collisions",
-      "vin": "KM8HCCAB4SU253258",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/de2a814ddd73.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 30999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Kona Preferred TREND CPO, HtdSts, CarPlay, No Accidents",
-      "vin": "KM8HCCAB7SU290062",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/461fb7462858.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 30099.0,
       "price_currency": "CAD"
     },
     {
@@ -490,14 +413,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Tucson Preferred AWD w-Trend Pkg",
+      "name": "2025 Hyundai Tucson Preferred TREND CPO, AWD, Sunroof, HtdSts, NoAcc",
       "vin": "5NMJCCDE5SH547612",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/572a7b0e9587.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 35300.0,
+      "price": 34999.0,
       "price_currency": "CAD"
     },
     {
@@ -509,6 +432,17 @@
       "model": "Tucson",
       "condition": "used",
       "price": 31500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Tucson Preferred",
+      "vin": "5NMJBCDE9SH564335",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/8bb7e51aa0ce.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -534,58 +468,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Sorento Plug-In Hybrid EX AWD PHEV, 7-Pass, HtdSts, CarPlay",
-      "vin": "KNDRJDJH4S5320878",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/6ce56a55fdd2.html",
+      "name": "2025 Kia Seltos EX",
+      "vin": "KNDEUCAAXS7800320",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/0125c45700e7.html",
       "year": 2025,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybrid",
+      "model": "Seltos",
       "condition": "used",
-      "price": 44999.0,
+      "price": 27495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-5 GS AWD",
+      "name": "2025 Mazda CX-5 GS AWD, Leather, Htd Sts, CarPlay",
       "vin": "JM3KFBCL0S0567358",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/31aba6127ae7.html",
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 33300.0,
+      "price": 30495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-70 MHEV GT AWD",
-      "vin": "JM3KJDHD4S1122997",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/dfe14a491d5a.html",
+      "name": "2025 Mazda CX-5 Sport Design",
+      "vin": "JM3KFBDY6S0766490",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/5dd959ba2636.html",
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-70 MHEV",
+      "model": "CX-5",
       "condition": "used",
-      "price": 38000.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks S, CarPlay, BkupCam, Adaptive Cruise, AccidentFree",
-      "vin": "3N8AP6BA9SL342551",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/47a48bb40d1b.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 25199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue SV MOONROOF",
-      "vin": "JN8BT3BBXSW164215",
-      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/acd1e0144b72.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 26750.0,
+      "price": 40999.0,
       "price_currency": "CAD"
     },
     {
@@ -597,6 +509,39 @@
       "model": "1500",
       "condition": "used",
       "price": 54000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Comfortline",
+      "vin": "3VVUC7B28SM071464",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/6057a2c0527b.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Comfortline",
+      "vin": "3VVUC7B23SM051722",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/64453aa67694.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Comfortline",
+      "vin": "3VVUC7B2XSM050728",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/8d9c3293b01b.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 28495.0,
       "price_currency": "CAD"
     },
     {
@@ -644,69 +589,69 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue Preferred CPO, HtdSts, CarPlay, Accident Free",
+      "name": "2026 Hyundai Venue Preferred CPO, CarPlay, NoAccident, $189B/W txs in",
       "vin": "KMHRC8A35TU449995",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/5b9f1ccc48cf.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 24498.0,
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue Preferred CPO, HtdSts, CarPlay, Accident Free,",
+      "name": "2026 Hyundai Venue Preferred CPO, Like New, $193B/W Everything In",
       "vin": "KMHRC8A38TU468671",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/6967b625e55c.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 24998.0,
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue Preferred CPO, HtdSts, CarPlay, Accident Free",
+      "name": "2026 Hyundai Venue Preferred CPO, CarPlay, NoAccident, $189B/W txs in",
       "vin": "KMHRC8A39TU450051",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/d1d5ea866c3e.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 24498.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue Preferred CPO, HtdSts, CarPlay, Accident Free",
+      "name": "2026 Hyundai Venue Preferred CPO, CarPlay, NoAccident, $189B/W txs in",
       "vin": "KMHRC8A35TU451472",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/d6f217cc241b.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 24498.0,
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue Preferred CPO, HtdSts, CarPlay, Accident Free",
+      "name": "2026 Hyundai Venue Preferred CPO, CarPlay, NoAccident, $189B/W txs in",
       "vin": "KMHRC8A38TU457797",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/7755ba83b541.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 24498.0,
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Venue Preferred CPO, HtdSts, CarPlay, Accident Free,",
+      "name": "2026 Hyundai Venue Preferred CPO, CarPlay, NoAccident, $189B/W txs in",
       "vin": "KMHRC8A30TU450424",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/e701d34d68fe.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 24498.0,
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
@@ -2742,6 +2687,17 @@
       "model": "CLA",
       "condition": "used",
       "price": 37000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Kicks SV",
+      "vin": "3N8AP6CB0TL356346",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/aadc9d1e9cab.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 28495.0,
       "price_currency": "CAD"
     },
     {
