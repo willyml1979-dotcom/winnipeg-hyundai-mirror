@@ -1,6 +1,6 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-11-17T23:15:45",
+  "generated_at": "2026-11-18T07:56:22",
   "vehicle_count": 365,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -17,25 +17,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Land Rover Discovery Sport S",
+      "name": "2020 Land Rover Discovery Sport S AWD, Lthr, HtdSts, CarPlay",
       "vin": "SALCJ2FX2LH837051",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/c060e163c15f.html",
       "year": 2020,
       "make": "Land",
-      "model": "Rover Discovery Sport S",
+      "model": "Rover Discovery Sport S AWD, Lthr, HtdSts, CarPlay",
       "condition": "used",
-      "price": 19000.0,
+      "price": 19195.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Mercedes-Benz GLA GLA 250",
+      "name": "2021 Mercedes-Benz GLA GLA 250, Lthr, HtdSts, CarPlay, BkupCam",
       "vin": "W1N4N4HB8MJ288374",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/4d71e7c0e7fd.html",
       "year": 2021,
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 30000.0,
+      "price": 29495.0,
       "price_currency": "CAD"
     },
     {
@@ -50,14 +50,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Tucson Hybrid ULTIMATE",
+      "name": "2022 Hyundai Tucson Hybrid Ultimate CPO, HEV, AWD, Lthr, HtdSts",
       "vin": "KM8JCCA1XNU023009",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/5b8c973feec8.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 30299.0,
+      "price": 28495.0,
       "price_currency": "CAD"
     },
     {
@@ -68,7 +68,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 27700.0,
+      "price": 25495.0,
       "price_currency": "CAD"
     },
     {
@@ -116,7 +116,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Elantra Preferred IVT",
+      "name": "2023 Hyundai Elantra Preferred CPO, HtdSts, CarPlay, BkupCam",
       "vin": "KMHLM4AG9PU406491",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/5659f0daf300.html",
       "year": 2023,
@@ -145,7 +145,7 @@
       "make": "Hyundai",
       "model": "Santa Cruz",
       "condition": "used",
-      "price": 32000.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -281,14 +281,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Sentra SV",
+      "name": "2024 Nissan Sentra SV, HtdSts, CarPlay, BkupCam, Accident Free",
       "vin": "3N1AB8CV7RY366581",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/0917dce426c1.html",
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 19999.0,
+      "price": 19495.0,
       "price_currency": "CAD"
     },
     {
@@ -464,7 +464,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 26500.0,
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -475,7 +475,7 @@
       "make": "Infiniti",
       "model": "QX60",
       "condition": "used",
-      "price": 42500.0,
+      "price": 40495.0,
       "price_currency": "CAD"
     },
     {
@@ -512,14 +512,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM 1500 REBEL",
+      "name": "2025 RAM 1500 Rebel 4x4, Leather, HtdSts, CarPlay, Nav",
       "vin": "1C6SRFLP2SN586269",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/4b7b04808c19.html",
       "year": 2025,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 54000.0,
+      "price": 52995.0,
       "price_currency": "CAD"
     },
     {
@@ -563,7 +563,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 55499.0,
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -574,7 +574,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 43250.0,
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -585,7 +585,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 53955.0,
+      "price": 52495.0,
       "price_currency": "CAD"
     },
     {
@@ -596,7 +596,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 36999.0,
+      "price": 34295.0,
       "price_currency": "CAD"
     },
     {
@@ -2492,14 +2492,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mercedes-Benz CLA Coupe CLA 250",
+      "name": "2026 Mercedes-Benz CLA Coupe CLA 250, Lthr, HtdSts, CarPlay, Accident Free",
       "vin": "W1K5J4HB5TN573358",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/4e8a8c9d4714.html",
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "used",
-      "price": 37000.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
