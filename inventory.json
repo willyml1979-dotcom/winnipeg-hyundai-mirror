@@ -1,7 +1,7 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-11-17T05:30:16",
-  "vehicle_count": 363,
+  "generated_at": "2026-11-17T22:24:40",
+  "vehicle_count": 364,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -79,7 +79,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 25500.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
@@ -90,7 +90,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 21500.0,
+      "price": 21295.0,
       "price_currency": "CAD"
     },
     {
@@ -204,6 +204,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Kona N Line Ultimate",
+      "vin": "KM8HECA34RU065661",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/9baf2469a0aa.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Hyundai Santa Fe ULTIMATE CALLIGRAPHY",
       "vin": "5NMP5DGL2RH024630",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/516816abb724.html",
@@ -211,7 +222,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 43999.0,
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -222,7 +233,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 30500.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -248,25 +259,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Kicks SR",
+      "name": "2024 Nissan Kicks SR Premium, Safety Shield 360, 360Cam, HtdSts",
       "vin": "3N1CP5DVXRL561921",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/150594fa57b7.html",
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23500.0,
+      "price": 23250.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Kicks SR",
+      "name": "2024 Nissan Kicks SR, HtdSts, CarPlay, 360Cam, Bose, Accident Free",
       "vin": "3N1CP5DV6RL557302",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/fdc2334b0e7a.html",
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23000.0,
+      "price": 22799.0,
       "price_currency": "CAD"
     },
     {
@@ -299,7 +310,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 36000.0,
+      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -332,18 +343,18 @@
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "used",
-      "price": 27500.0,
+      "price": 24495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Kona Electric PREFERRED",
+      "name": "2025 Hyundai Kona Electric Preferred CPO, EV, HtdSts&Whl, CarPlay, FastCharge",
       "vin": "KM8HC3A62SU023088",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/38164c0265da.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "used",
-      "price": 35699.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -365,7 +376,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 28999.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -376,18 +387,18 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 30499.0,
+      "price": 29899.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Kona 2.0L Preferred AWD w-Trend Package",
+      "name": "2025 Hyundai Kona Preferred TREND PKG, CPO, AWD, Sunroof, NoAccident",
       "vin": "KM8HCCAB1SU284189",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/ae789837b7e0.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 30699.0,
+      "price": 30099.0,
       "price_currency": "CAD"
     },
     {
@@ -398,7 +409,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 32500.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -409,7 +420,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 32299.0,
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -431,7 +442,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 31500.0,
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
