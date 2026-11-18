@@ -1,6 +1,6 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-11-18T07:56:22",
+  "generated_at": "2026-11-18T08:42:22",
   "vehicle_count": 365,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -699,14 +699,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
+      "name": "2026 Hyundai Elantra N N LINE ULTIMATE",
       "vin": "KMHLR4DF0TU303958",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/aa618d11a1b3.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 36674.0,
+      "price": 36699.0,
       "price_currency": "CAD"
     },
     {
@@ -717,7 +717,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 30087.0,
+      "price": 30112.0,
       "price_currency": "CAD"
     },
     {
@@ -739,7 +739,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 26724.0,
+      "price": 24999.0,
       "price_currency": "CAD"
     },
     {
@@ -761,7 +761,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 32974.0,
+      "price": 32999.0,
       "price_currency": "CAD"
     },
     {
@@ -772,7 +772,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 30974.0,
+      "price": 29100.0,
       "price_currency": "CAD"
     },
     {
@@ -783,7 +783,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 32974.0,
+      "price": 31249.0,
       "price_currency": "CAD"
     },
     {
@@ -827,7 +827,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 28524.0,
+      "price": 28549.0,
       "price_currency": "CAD"
     },
     {
@@ -838,7 +838,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 28524.0,
+      "price": 28549.0,
       "price_currency": "CAD"
     },
     {
@@ -849,7 +849,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 28524.0,
+      "price": 28549.0,
       "price_currency": "CAD"
     },
     {
@@ -3889,7 +3889,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD",
+      "name": "2027 Hyundai Santa Fe Hybrid PREFERRED",
       "vin": "KM8P2DG13VU228150",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/66f57f8eddbf.html",
       "year": 2027,
@@ -3900,7 +3900,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD",
+      "name": "2027 Hyundai Santa Fe Hybrid PREFERRED",
       "vin": "KM8P2DG12VU228074",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/6e0523d07150.html",
       "year": 2027,
