@@ -1,7 +1,7 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-11-18T08:42:22",
-  "vehicle_count": 365,
+  "generated_at": "2026-11-18T16:32:57",
+  "vehicle_count": 366,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -101,7 +101,7 @@
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 47995.0,
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -212,6 +212,17 @@
       "model": "Kona",
       "condition": "used",
       "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Kona Essential",
+      "vin": "KM8HACAB8RU056108",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/used/0a2cac3a57a5.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 27495.0,
       "price_currency": "CAD"
     },
     {
