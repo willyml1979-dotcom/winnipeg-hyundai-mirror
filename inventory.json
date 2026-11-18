@@ -1,7 +1,7 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-11-17T22:24:40",
-  "vehicle_count": 364,
+  "generated_at": "2026-11-17T23:15:45",
+  "vehicle_count": 365,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -673,7 +673,7 @@
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "new",
-      "price": 35224.0,
+      "price": 35249.0,
       "price_currency": "CAD"
     },
     {
@@ -684,18 +684,18 @@
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "new",
-      "price": 36074.0,
+      "price": 36099.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
+      "name": "2026 Hyundai Elantra Hybrid LUXURY",
       "vin": "KMHLN4DJ2TU225781",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/18a1a37b46ca.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
       "condition": "new",
-      "price": 36074.0,
+      "price": 36099.0,
       "price_currency": "CAD"
     },
     {
@@ -3284,6 +3284,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Kona PREFERRED",
+      "vin": "KM8HB3AB9VU549576",
+      "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/6a6605818d9c.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 34349.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Palisade Hybrid ULTIMATE CALLIGRAPHY",
       "vin": "KM8RMESAXVU124013",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/38e56fe6c4b4.html",
@@ -3632,7 +3643,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61824.0,
+      "price": 60099.0,
       "price_currency": "CAD"
     },
     {
@@ -3643,7 +3654,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 54074.0,
+      "price": 54099.0,
       "price_currency": "CAD"
     },
     {
@@ -3654,7 +3665,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 53724.0,
+      "price": 53749.0,
       "price_currency": "CAD"
     },
     {
@@ -3665,7 +3676,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 50074.0,
+      "price": 50099.0,
       "price_currency": "CAD"
     },
     {
@@ -3676,7 +3687,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61474.0,
+      "price": 61499.0,
       "price_currency": "CAD"
     },
     {
@@ -3687,7 +3698,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 53724.0,
+      "price": 53749.0,
       "price_currency": "CAD"
     },
     {
@@ -3698,7 +3709,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61824.0,
+      "price": 61849.0,
       "price_currency": "CAD"
     },
     {
@@ -3709,7 +3720,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61824.0,
+      "price": 61849.0,
       "price_currency": "CAD"
     },
     {
@@ -3720,7 +3731,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 63074.0,
+      "price": 63099.0,
       "price_currency": "CAD"
     },
     {
@@ -3731,7 +3742,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 61474.0,
+      "price": 61499.0,
       "price_currency": "CAD"
     },
     {
@@ -3742,7 +3753,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 63074.0,
+      "price": 63099.0,
       "price_currency": "CAD"
     },
     {
@@ -3867,14 +3878,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Hyundai Santa Fe Hybrid Preferred AWD w-Trend Pkg",
+      "name": "2027 Hyundai Santa Fe Hybrid PREFERRED TREND",
       "vin": "KM8P3DG18VU227122",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/9baf16071a46.html",
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 54074.0,
+      "price": 54099.0,
       "price_currency": "CAD"
     },
     {
