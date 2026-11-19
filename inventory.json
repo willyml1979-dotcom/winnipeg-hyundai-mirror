@@ -1,6 +1,6 @@
 {
   "dealership": "Winnipeg Hyundai",
-  "generated_at": "2026-11-18T16:32:57",
+  "generated_at": "2026-11-18T18:49:24",
   "vehicle_count": 366,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -871,7 +871,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 31574.0,
+      "price": 31599.0,
       "price_currency": "CAD"
     },
     {
@@ -882,7 +882,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 31574.0,
+      "price": 31599.0,
       "price_currency": "CAD"
     },
     {
@@ -893,7 +893,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 29024.0,
+      "price": 29049.0,
       "price_currency": "CAD"
     },
     {
@@ -904,7 +904,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 33574.0,
+      "price": 33599.0,
       "price_currency": "CAD"
     },
     {
@@ -915,7 +915,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 33574.0,
+      "price": 33599.0,
       "price_currency": "CAD"
     },
     {
@@ -926,7 +926,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 31574.0,
+      "price": 31599.0,
       "price_currency": "CAD"
     },
     {
@@ -937,7 +937,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 31574.0,
+      "price": 31599.0,
       "price_currency": "CAD"
     },
     {
@@ -952,14 +952,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra Preferred IVT w-Tech Pkg",
+      "name": "2026 Hyundai Elantra PREFERRED TECH",
       "vin": "KMHLM4DG9TU307286",
       "url": "https://willyml1979-dotcom.github.io/winnipeg-hyundai-mirror/new/a777433424f3.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "new",
-      "price": 31574.0,
+      "price": 31599.0,
       "price_currency": "CAD"
     },
     {
